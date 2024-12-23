@@ -29,4 +29,6 @@
   browser = google-chrome
 [user]
 	name = Volodymyr Dyptan
-	email = diptanw@gmail.com
+	email = volodymyr.dyptan@flexera.com
+[url "ssh://git@github.com/"]
+ 	insteadOf = https://github.com/
